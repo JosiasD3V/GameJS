@@ -1,0 +1,16 @@
+{
+  "name": "game-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test":"jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "vite": "^7.0.4"
+  }
+}
